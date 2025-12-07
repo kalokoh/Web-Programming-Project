@@ -3,4 +3,4 @@ A back-end user management system with role-based access control (Admin, Player,
 
 Quick Setup
 Install XAMPP and start Apache & MySQL
-Clone repository: git clone https://github.com/[username]/agent-system.git
+Clone repository: https://github.com/kalokoh/Web-Programming-Project.git
